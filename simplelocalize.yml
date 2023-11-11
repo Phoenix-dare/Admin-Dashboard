@@ -1,0 +1,6 @@
+
+downloadFormat: single-language-json
+downloadPath: ./locales/{lang}/{ns}.json
+
+uploadFormat: single-language-json
+uploadPath: ./locales/{lang}/{ns}.json

@@ -1,0 +1,8 @@
+{
+  "locales": ["en", "fr", "pl", "de", "hr", "sv", "nl", "be", "ru"],
+  "defaultLocale": "en",
+  "pages": {
+    "*": ["common"],
+    "/dashboard/default": ["main"]
+  }
+}
